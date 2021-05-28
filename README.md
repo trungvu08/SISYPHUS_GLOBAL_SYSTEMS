@@ -62,8 +62,16 @@ environmental injustices and equities in the global south.
 ![Patrick](https://user-images.githubusercontent.com/81652014/120049352-87f3c480-bfce-11eb-9e46-ac36777501a9.png)
 ![Trung](https://user-images.githubusercontent.com/81652014/120049347-84f8d400-bfce-11eb-9192-cd3162eff608.png)
 
-## &#128187; To Run our Hackathon Code
+## :open_file_folder: System Architecture & Demo
+[SISYPHUS_SYSTEM ARCHITECTURE](https://github.com/trungvu08/SISYPHUS_GLOBAL_SYSTEMS/files/6563699/SISYPHUS_System.Architecture.pdf)
 
+[SISYPHUS_DEMO](https://github.com/trungvu08/SISYPHUS_GLOBAL_SYSTEMS/files/6563700/SISYPHUS_Demo.pdf)
+
+## :clapper: 3 Minute Video
+// YouTube video link goes here
+
+## &#128187; To Run our Hackathon Code
+// instructions go here
 
 
 
