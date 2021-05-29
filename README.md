@@ -27,6 +27,8 @@ Beginning with Hurricane Katrina in 2005, the National Flood Insurance Program  
 
 ## &#128187; To Run our Hackathon Code
 // instructions go here
+Our ultimate aim is to conduct a geographically weighted regression to predict flood risk for individual properties in New Orleans (at present) and scale to support different locations eventually. The final user experience will entail users being able to zoom into a flood risk map to their property and get an individualized risk assessment and cost ebenfit analysis. We are working with data from the pilot city of New Orleans and one of the back-end development tasks in this project is to generate maps of different variabels that will be used in the regression. For the hackathon, we are submitting a web app that shows two of the feature layers we generated using the ArcGIS platform and javascript API. We are vizualising green (orange dots) and gray (purple pipeline) infrastructure in New Orleans, which are important predictors of potential flooding risk. 
 
+Unfortunately, I was unable to understand how to deploy the webapp using code engine, so in order to visualize the map, please download the 
 
 
