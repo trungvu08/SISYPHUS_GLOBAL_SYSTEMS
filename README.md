@@ -30,7 +30,11 @@ Extended Version of 3 Minute Hackathon Submission Video: [YouTube Link](https://
 ## &#128187; To Run our Hackathon Code
 Our ultimate aim is to conduct a geographically weighted regression to predict flood risk for individual properties in New Orleans (at present) and scale to support different locations eventually. The final user experience will entail users being able to zoom into a flood risk map to their property and get an individualized risk assessment and cost benefit analysis. We are working with data from the pilot city of New Orleans and one of the back-end development tasks in this project is to generate maps of different variables that will be used in the regression. For the hackathon, we are submitting a web app that shows two of the feature layers we generated using the ArcGIS platform and javascript API. We are vizualising green (orange dots) and gray (purple pipeline) infrastructure in New Orleans, which are important predictors of potential flooding risk. 
 
-In case we are unable to build the docker image and deploy using Code Engine, pls use the following steps to run our solution and visulaize the map:
+
+Docker Image for app: docker.io/uqktiwar/flask-app2 
+
+/// 
+In case we are unable to build the docker image properly and deploy using Code Engine, pls use the following steps to run our solution and visulaize the map:
 
 You will have to install python and flask in order to run the code. Once that is done: 
 
