@@ -22,8 +22,10 @@ Beginning with Hurricane Katrina in 2005, the National Flood Insurance Program  
 
 [SISYPHUS_DEMO](https://github.com/trungvu08/SISYPHUS_GLOBAL_SYSTEMS/files/6563700/SISYPHUS_Demo.pdf)
 
-## :clapper: 3 Minute Video
-[YouTube Link](https://youtu.be/kIr99fvXzpk)
+## :clapper: Videos
+3 Minute Hackathon Submission Video: [YouTube Link](https://youtu.be/kIr99fvXzpk)
+
+Extended Version of 3 Minute Hackathon Submission Video: [YouTube Link](https://youtu.be/ZIPIRCpLK9o)
 
 ## &#128187; To Run our Hackathon Code
 Our ultimate aim is to conduct a geographically weighted regression to predict flood risk for individual properties in New Orleans (at present) and scale to support different locations eventually. The final user experience will entail users being able to zoom into a flood risk map to their property and get an individualized risk assessment and cost benefit analysis. We are working with data from the pilot city of New Orleans and one of the back-end development tasks in this project is to generate maps of different variables that will be used in the regression. For the hackathon, we are submitting a web app that shows two of the feature layers we generated using the ArcGIS platform and javascript API. We are vizualising green (orange dots) and gray (purple pipeline) infrastructure in New Orleans, which are important predictors of potential flooding risk. 
