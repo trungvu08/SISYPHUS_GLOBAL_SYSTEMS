@@ -17,10 +17,8 @@ through centuries of slavery exploitation, several decades of Jim Crow dominatio
 thirty years of civil rights oppression, recent flood disasters displacement, and
 gentrification has defined the settlement pattern of New Orleans and the
 development of the American cities. Consequently, the wealthy majority residents
-
 have historically had rights to the geologic high-lying areas, while the lower-
 income, primarily minority residents were delegated to settle in the low-lying areas
-
 with greater flood risk and less flood protection. At the international scale, the
 global south is disproportionately affected and is unequipped to mitigate the
 climate crisis, while the wealthier counties which produce most of the greenhouse
@@ -45,7 +43,6 @@ disproportionally affected by climate change. An understanding of these underlyi
 causes of environmental injustice and inequity will help us tailor the XR human
 experience to effectively inform flood risk and mitigation to diverse social,
 economic, political, environmental, cultural, and geographical factors. Without
-
 these direct technique interventions, the unequal distribution of the burden of flood
 risk and benefit of flood mitigation will be most felt on the national scale by
 indigenous, brown, and black Americans and on the larger scale, will amplify these
